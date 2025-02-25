@@ -14,15 +14,12 @@ Welcome to the most fun and easy-to-use Body Mass Index (BMI) Calculator on the 
 
 - 📊 Clear classification:
 
-- 🏋️‍♂️ Underweight: BMI < 18.5
+ 🏋️‍♂️ Underweight: BMI < 18.5
 
-- ✅ Normal weight: 18.5 - 24.9
-
-- 🍔 Overweight: 25 - 29.9
-
-- ⚠️ Obese: 30 - 34.9
-
-- 🚨 Extremely Obese: BMI >= 35
+Normal weight: 18.5 - 24.9
+Overweight: 25 - 29.9
+Obese: 30 - 34.9
+Extremely Obese: BMI >= 35
 
 - ⚠️ Fun error messages when inputs are missing!
 
@@ -30,7 +27,12 @@ Welcome to the most fun and easy-to-use Body Mass Index (BMI) Calculator on the 
 
 📸 Screenshots
 
-(Insert project images here)
+![image](https://github.com/user-attachments/assets/bc456adf-7020-43f1-8057-3dff8ec79c0b)
+![image](https://github.com/user-attachments/assets/b80f0d0c-af89-4707-a341-de04da8ca5c7)
+![image](https://github.com/user-attachments/assets/2c6bbf3b-8199-4a5a-ae18-83716ee9fcef)
+![image](https://github.com/user-attachments/assets/015fd5bf-e169-4c65-8390-438d001f2f24)
+![image](https://github.com/user-attachments/assets/b447bec2-0b62-4b59-bbdd-b63e60f3480a)
+
 
 🔧 Technologies Used
 

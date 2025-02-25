@@ -5,16 +5,18 @@ Overview
 A simple and easy-to-use Body Mass Index (BMI) Calculator that helps users determine their BMI based on age, gender, height, and weight.
 
 Features
--User-friendly design
--Input fields for age, gender, height, and weight
--Instant BMI calculation
--Categorization of BMI results:
---Underweight: BMI < 18.5
---Normal weight: 18.5 - 24.9
---Overweight: 25 - 29.9
---Obese: 30 - 34.9
---Extremely Obese: BMI >= 35
--Responsive layout
+User-friendly design
+Input fields for age, gender, height, and weight
+Instant BMI calculation
+
+Categorization of BMI results:
+Underweight: BMI < 18.5
+Normal weight: 18.5 - 24.9
+Overweight: 25 - 29.9
+Obese: 30 - 34.9
+Extremely Obese: BMI >= 35
+
+Responsive layout
 
 Screenshots
 

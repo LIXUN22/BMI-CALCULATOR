@@ -19,11 +19,6 @@ Features
 Screenshots
 ![image](https://github.com/user-attachments/assets/bc456adf-7020-43f1-8057-3dff8ec79c0b)
 ![image](https://github.com/user-attachments/assets/b80f0d0c-af89-4707-a341-de04da8ca5c7)
-![image](https://github.com/user-attachments/assets/2c6bbf3b-8199-4a5a-ae18-83716ee9fcef)
-![image](https://github.com/user-attachments/assets/015fd5bf-e169-4c65-8390-438d001f2f24)
-![image](https://github.com/user-attachments/assets/b447bec2-0b62-4b59-bbdd-b63e60f3480a)
-
-
 
 Technologies Used
 -HTML, CSS, JavaScript
